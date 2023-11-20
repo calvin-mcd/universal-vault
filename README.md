@@ -16,6 +16,8 @@ The following Alpha Layouts are included and labelled with letters:
 1 Oled is supported in two positions. 2 Rotaries are supported in separate positions. There are various options for ISO and other keys.
 
 ![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/top.png)
+![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/bottom.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/3ef7aba83f82a949b1ddb73d159c1351)
 
@@ -34,7 +36,9 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 ## Credits
 
-big thanks to jlw_ for the inspiration and support. To cain (mechvault) for the amazing vault35, a design that just keeps giving. To chronomap for help with the KLE. And to max.yw, Ha Ha Ha
+big thanks to cain (mechvault) for the amazing vault35, a design that just keeps giving.
+
+thanks also to jlw_ for the inspiration and support with this silly project. To galvy for their work on other community pcb and the work that I could draw from. To chronomap for help with the KLE. And to max.yw, Ha Ha Ha
 and ottimo for name suggestions!!!! :big heart:
 
 As always big thanks to the whole 40s keyboard community!
