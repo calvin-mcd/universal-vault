@@ -6,11 +6,11 @@ The universal vault aka "omnivault" aka "v-all-t" is a community, open source pc
 
 The following Alpha Layouts are included and labelled with letters:
 
-V = Original Vault Layout
-A = Alpha Stagger
-O = Ortho
-K = Katana
-U = Uniform Stagger
+V = Original Vault Layout ///
+A = Alpha Stagger ///
+O = Ortho ///
+K = Katana ///
+U = Uniform Stagger ///
 T = Treadstone
 
 1 Oled is supported in two positions. 2 Rotaries are supported in separate positions. There are various options for ISO and other keys.
