@@ -24,6 +24,7 @@ The following Alpha Layouts are included and labelled with letters:
 ## Todo
 
 - [ ] order & test pcb
+- [ ] test universal plate
 - [ ] create firmware
 
 ## Disclaimer
