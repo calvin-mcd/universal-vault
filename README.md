@@ -34,7 +34,7 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 ## Credits
 
-big thanks to jlw_ for the inspiration and support. To cain (mechvault) for the amazing vault35, a design that just keeps giving. And to max.yw, Ha Ha Ha
+big thanks to jlw_ for the inspiration and support. To cain (mechvault) for the amazing vault35, a design that just keeps giving. To chronomap for help with the KLE. And to max.yw, Ha Ha Ha
 and ottimo for name suggestions!!!! :big heart:
 
 As always big thanks to the whole 40s keyboard community!
