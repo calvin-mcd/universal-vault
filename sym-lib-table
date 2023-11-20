@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kbd")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/libs/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/libs/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+)
