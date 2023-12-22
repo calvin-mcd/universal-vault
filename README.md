@@ -42,6 +42,8 @@ big thanks to cain (mechvault) for the amazing vault35, a design that just keeps
 thanks also to jlw_ for the inspiration and support with this silly project. To galvy for their work on other community pcbs and the work that I could draw from. To chronomap for help with the KLE. And to max.yw, Ha Ha Ha
 and ottimo for name suggestions!!!! :big heart:
 
+and finally big thanks to summerqm for their work on the silkscreen!!!
+
 As always big thanks to the whole 40s keyboard community!
 
 Any questions, contact Calvin0563 on Discord. 

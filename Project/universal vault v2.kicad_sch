@@ -5492,7 +5492,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ef307fca-0d49-47cf-905b-9190f86475d3)
   )
-  (label "A7" (at 48.895 62.23 0) (fields_autoplaced)
+  (label "A6" (at 48.895 62.23 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f8eccead-5ed3-4ec6-ae78-86a978cc43b3)
   )
