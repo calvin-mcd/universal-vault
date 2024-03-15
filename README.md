@@ -21,7 +21,7 @@ The following Alpha Layouts are included and labelled with letters:
 
 ## Images
 
-![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/picture.jpg)
+![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/picture.jpeg)
 ![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/bottom.png)
 
 ## Firmware
@@ -30,7 +30,7 @@ The firmware file for flashing can be found in the folder. As this pcb uses a ST
 
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and is confirmed to work. However, no-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Feel free to edit, modify and otherwise utilise these files.
 
 ## License
 
