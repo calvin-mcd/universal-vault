@@ -1,6 +1,6 @@
-# universal-vault
+# HHKB universal-vault
 
-The universal vault aka "omnivault" aka "v-all-t" is a community, open source pcb for the vault35. It tries to cover as many alpha layouts as possible while maintaining the original bottom row of the vault35. It uses a STM32F072 to reduce the amount of components while still supporting RGB for underglow.
+The HHKB universal vault aka "omnivault" aka "v-all-t" is a community, open source pcb for the HHKB vault35. It tries to cover as many alpha layouts as possible while maintaining the original bottom row of the vault35. It uses a STM32F072 to reduce the amount of components while still supporting RGB for underglow.
 
 ## Layout
 
@@ -16,16 +16,17 @@ The following Alpha Layouts are included and labelled with letters:
 1 Oled is supported in two positions. 2 Rotaries are supported in separate positions. There are various options for ISO and other keys.
 
 ![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/KLE.png)
-![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/top.png)
-![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/bottom.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/3ef7aba83f82a949b1ddb73d159c1351)
 
-## Todo
+## Images
 
-- [ ] order & test pcb
-- [ ] test universal plate
-- [ ] create firmware
+![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/picture.jpg)
+![](https://github.com/calvin-mcd/universal-vault/blob/main/Images/bottom.png)
+
+## Firmware
+
+The firmware file for flashing can be found in the folder. As this pcb uses a STM mcu, you will need to hold the boot button before plugging in the pcb. Then use qmk toolbox to flash (you don't need to select an MCU, just the firmware file').
 
 ## Disclaimer
 
